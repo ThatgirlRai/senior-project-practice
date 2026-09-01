@@ -1,0 +1,6 @@
+print("Senior Project Developer Profile")
+print()
+print("Name: Sarai Prentice")
+print("Major: Computer Science")
+print("Technology Interest: Game Deveelopment")
+print("Skill Goal: Software Development")
